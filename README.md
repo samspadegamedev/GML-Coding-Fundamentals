@@ -5,3 +5,5 @@ A repository for the GMS 2 Coding Fundamentals project.
 
 - [Final Version of Slides](https://drive.google.com/drive/folders/1kixOSot06fLOM2TokcO8vuWKig6qmyLd?usp=sharing)
 
+- [Entirely option Patreon Page](https://www.patreon.com/samspadegamedev)
+
