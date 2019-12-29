@@ -2,7 +2,6 @@
 
 
 //initialize variables
-player_name = "link";
 player_health = 3;
 player_weapon = "sword";
 
