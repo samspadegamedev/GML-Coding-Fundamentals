@@ -50,7 +50,7 @@
             "Key": "129d5a08-4ac0-4020-b619-9fc5fd7fc960",
             "Value": {
                 "id": "70994e6f-c9ad-4d31-92bd-89535a066cdb",
-                "resourcePath": "objects\\obj_thing_1\\obj_thing_1.yy",
+                "resourcePath": "objects\\obj_b\\obj_b.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -79,10 +79,10 @@
             }
         },
         {
-            "Key": "35f3ccf9-1182-4a1f-befe-9440542815e6",
+            "Key": "34ba8b14-fb01-47f4-befd-0f501d05074b",
             "Value": {
-                "id": "1174ae5a-1d78-47cb-b67c-9babca17b78e",
-                "resourcePath": "objects\\obj_thing_2\\obj_thing_2.yy",
+                "id": "c5f6839e-2383-4047-a64f-fa9b1a64352d",
+                "resourcePath": "objects\\obj_conditional_statements\\obj_conditional_statements.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "997dae45-52b8-4b8d-a427-f4c915daf20f",
+            "Value": {
+                "id": "98c92657-f800-414d-878a-02ea28f54619",
+                "resourcePath": "views\\997dae45-52b8-4b8d-a427-f4c915daf20f.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
             "Value": {
                 "id": "8e46edd4-6599-46af-8929-9d74c32d8321",
@@ -186,8 +194,16 @@
             "Key": "adefd185-1acc-4b2f-9c87-734b55da6926",
             "Value": {
                 "id": "4f2204bc-d9ee-48d2-9fe8-be11a8f91309",
-                "resourcePath": "objects\\obj_variable_scope\\obj_variable_scope.yy",
+                "resourcePath": "objects\\obj_a\\obj_a.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "c01c087e-aaa6-4c70-9888-4402a835916e",
+            "Value": {
+                "id": "6aafaefa-5740-4fea-8eef-d04bd1f926f7",
+                "resourcePath": "sprites\\spr_white_square\\spr_white_square.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
