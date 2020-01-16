@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "216d3f3a-b20c-4c6c-b869-6ff07e69ccbe",
+            "Value": {
+                "id": "b9549cfc-b074-49f4-8629-242e068bd792",
+                "resourcePath": "views\\216d3f3a-b20c-4c6c-b869-6ff07e69ccbe.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "228d01df-b96a-4161-8e3d-859cc722bfed",
             "Value": {
                 "id": "8a872e2b-32b7-4923-9ceb-9bf8547d1be0",
@@ -124,6 +132,14 @@
                 "id": "3f47421e-13d1-4e00-8bda-098ac18d7f53",
                 "resourcePath": "views\\54ae32eb-5d0b-4f45-ab50-636f3b1b9733.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6b4c990e-9287-42ec-b4ab-9fbe1cc8a8de",
+            "Value": {
+                "id": "ee6a23c8-e3bb-4dc3-b19c-414b340e1af7",
+                "resourcePath": "objects\\obj_while_loop\\obj_while_loop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "a5748370-79bd-425a-9478-691ab8ce4314",
+            "Value": {
+                "id": "d918bb57-867a-4f23-be82-5f99298a9a11",
+                "resourcePath": "objects\\obj_repeat_loop\\obj_repeat_loop.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "27520ddc-d940-4747-98f8-4f7ffc86785e",
@@ -268,6 +292,14 @@
                 "id": "e4cca5d5-080c-47c1-8271-c823383e9244",
                 "resourcePath": "views\\d104baaf-d3a8-44cb-8f06-fa656b04c858.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "da100d8f-9e0f-4463-a9d1-68af966474f8",
+            "Value": {
+                "id": "4ad4696d-0875-449e-83dc-3e292d5b1a2f",
+                "resourcePath": "objects\\obj_for_loop\\obj_for_loop.yy",
+                "resourceType": "GMObject"
             }
         },
         {
