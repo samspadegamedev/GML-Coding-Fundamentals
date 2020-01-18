@@ -28,10 +28,10 @@ do {
 } until (true);
 
 
-////endless loop
-//while (true) {
-//    show_debug_message("an endless loop");
-//}
+//endless loop
+while (true) {
+    show_debug_message("an endless loop");
+}
 
 show_debug_message("Tests done!");
 

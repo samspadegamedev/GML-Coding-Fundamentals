@@ -1,4 +1,4 @@
-/// @description While Loop
+/// @description For Loop
 
 
 //basic for loop

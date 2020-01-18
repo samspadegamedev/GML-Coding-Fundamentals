@@ -9,6 +9,7 @@ repeat (3) {
 number = 3;
 repeat (number) {
     show_debug_message("Hello World");
+    show_debug_message(number--);
 }
 
 //takes a function
