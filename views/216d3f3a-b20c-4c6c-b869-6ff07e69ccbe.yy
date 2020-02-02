@@ -6,7 +6,8 @@
     "children": [
         "a5748370-79bd-425a-9478-691ab8ce4314",
         "6b4c990e-9287-42ec-b4ab-9fbe1cc8a8de",
-        "da100d8f-9e0f-4463-a9d1-68af966474f8"
+        "da100d8f-9e0f-4463-a9d1-68af966474f8",
+        "0accd65b-01ee-4924-b248-1f85776e7f3f"
     ],
     "filterType": "GMObject",
     "folderName": "Loops",
