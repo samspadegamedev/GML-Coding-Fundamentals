@@ -3,18 +3,18 @@
 
 //set up variables
 test_over = false;
-A = true;
-B = false;
+a = true;
+b = false;
 
-final_truth = A && B;
-final_truth = A || B;
-final_truth = A ^^ B;
+final_truth = a && b;
+final_truth = a || b;
+final_truth = a ^^ b;
 
-if (!A) {
+if (!a) {
     show_debug_message("A is false");
 }
 
-if (!B) {
+if (!b) {
     show_debug_message("B is false");
 }
 
