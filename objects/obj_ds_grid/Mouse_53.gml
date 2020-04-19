@@ -1,4 +1,4 @@
-/// @description 
+/// @description Add In Disk Area
 
 var _x = mouse_x div (room_width/ds_grid_width(my_grid));
 var _y = mouse_y div (room_height/ds_grid_height(my_grid));

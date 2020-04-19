@@ -2,7 +2,7 @@
 
 
 //stack overflow?
-recursive_function(0);
+//recursive_function(0);
 
 
 //give factorial of 

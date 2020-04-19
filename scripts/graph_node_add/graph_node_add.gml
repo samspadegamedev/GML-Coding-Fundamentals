@@ -1,26 +1,16 @@
-/// @function graph_node_add(graph, data)
-/// @param {array} graph
-/// @param {variable} data
-/// @description Creates a node and adds it to the graph
-
-/*
-the graph_node is a vertex in the graph
-
-graph_node = [
-    data = value,
-    edge = [
-        ...
-    ]
-]
-
-*/
-
-enum node {
-    data,
-    edge
-}
+/// @function graph_node_add(graph, name)
+/// @param {ds_map} graph
+/// @param {string} name
+/// @description
 
 
-var _new_graph_node = [argument1, []];
-array_add_to_end(argument0, _new_graph_node);
+//create a new key
+var _new_key = ds_map_create();
+ds_map_add(_new_key, "Left", undefined);
+ds_map_add(_new_key, "Right", undefined);
+ds_map_add(_new_key, "Up", undefined);
+ds_map_add(_new_key, "Down", undefined);
+
+//add that key to the map
+ds_map_add_map(argument0, argument1, _new_key);
 

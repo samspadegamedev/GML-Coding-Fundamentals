@@ -1,4 +1,4 @@
-/// @description Grid
+/// @description Draw Grid
 
 
 var _grid_size = room_width/ds_grid_width(my_grid);

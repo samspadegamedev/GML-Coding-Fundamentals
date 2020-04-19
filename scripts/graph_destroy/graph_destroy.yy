@@ -1,8 +1,8 @@
 {
-    "id": "7a52fe89-0c48-4755-ba0a-e3116f13c64f",
+    "id": "24a70119-1d5a-4edb-8628-43e6da0d968f",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "node_set",
+    "name": "graph_destroy",
     "IsCompatibility": false,
     "IsDnD": false
 }

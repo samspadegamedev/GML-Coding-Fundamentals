@@ -10,7 +10,7 @@ ds_map_replace(my_map, "Pandemic Name", "Covid-19");
 
 map_value = ds_map_find_value(my_map, "Pandemic Ongoing");
 if (map_value) {
-    show_message("work from home");
+    show_message("work from home if possible");
 } else {
     show_message("go to work!");
 }
@@ -18,7 +18,7 @@ if (map_value) {
 my_map[? "Pandemic Ongoing"] = false;
 map_value = my_map[? "Pandemic Ongoing"];
 if (map_value) {
-    show_message("work from home");
+    show_message("work from home if possible");
 } else {
     show_message("go to work!");
 }

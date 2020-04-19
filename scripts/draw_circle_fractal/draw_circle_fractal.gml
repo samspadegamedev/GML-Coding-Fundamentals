@@ -23,4 +23,4 @@ draw_circle(_x, _y, _radius, true);
 //recursive function call
 draw_circle_fractal(_x + _radius, _y, _radius/2);
 draw_circle_fractal(_x - _radius, _y, _radius/2);
-//draw_circle_fractal(_x, _y + _radius, _radius/2);
+draw_circle_fractal(_x, _y + _radius, _radius/2);

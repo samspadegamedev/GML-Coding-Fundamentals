@@ -10,7 +10,7 @@ graph = [
 ]
 */
 
-var _graph = [];
-return _graph;
+
+return ds_map_create();
 
 

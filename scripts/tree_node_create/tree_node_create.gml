@@ -21,3 +21,7 @@ enum tree_node {
 
 var _node = [argument0, []];
 return _node;
+
+
+//one line version
+//return [argument0, []];

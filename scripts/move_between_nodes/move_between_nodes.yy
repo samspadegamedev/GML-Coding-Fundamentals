@@ -1,8 +1,8 @@
 {
-    "id": "39f26e30-1f11-4216-9f60-86bf9eb2b64b",
+    "id": "6e48abc0-c87f-49e9-9245-47aeb844c29a",
     "modelName": "GMScript",
     "mvc": "1.0",
-    "name": "node_remove",
+    "name": "move_between_nodes",
     "IsCompatibility": false,
     "IsDnD": false
 }
