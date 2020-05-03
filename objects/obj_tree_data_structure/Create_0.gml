@@ -12,10 +12,10 @@ tree_node_add(my_tree, "The World", "Antarctica");
 tree_node_add(my_tree, "North America", "Canada");
 tree_node_add(my_tree, "North America", "United States");
 
-tree_node_add(my_tree, "Asia", "Tokyo");
+tree_node_add(my_tree, "Asia", "Japan");
 tree_node_add(my_tree, "Asia", "Saudi Arabia");
 
-if (tree_is_child(my_tree, "Asia", "Tokyo")) {
+if (tree_is_child(my_tree, "Asia", "Japan")) {
     show_message("Tokyo is in Asia");
 }
 

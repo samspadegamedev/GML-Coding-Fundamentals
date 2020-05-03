@@ -4,8 +4,7 @@
 /// @param {string} direction
 /// @param {string} B
 /// @param {boolean} bi_directional
-/// @description
-
+/// @description Add an edge between two nodes
 
 #region //rename arguments for ease of use
 var _graph, _node_a_name, _direction, _node_b_name, _bi_directional;
@@ -44,3 +43,4 @@ if (_bi_directional) {
 
     }
 }
+

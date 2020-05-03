@@ -2,12 +2,12 @@
 
 randomize();
 
-//array_find_index
-an_array = [2, 1, 4, 5];
+////array_find_index
+//an_array = [2, 1, 4, 5];
 
-var _value;
-_value = array_find_index(an_array, 1);
-_value = array_find_index(an_array, 101);
+//var _value;
+//_value = array_find_index(an_array, 1);
+//_value = array_find_index(an_array, 101);
 
 
 //create are grid

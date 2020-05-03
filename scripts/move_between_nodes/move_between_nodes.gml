@@ -15,4 +15,3 @@ _next_position = ds_map_find_value(_current_node, _direction);
 if (_next_position != undefined) {
     position = _next_position;
 }
-

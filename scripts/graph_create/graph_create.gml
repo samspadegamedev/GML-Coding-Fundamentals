@@ -1,16 +1,14 @@
 /// @function graph_create()
-/// @description Creates the graph
+/// @description Creates our graph
 
 /*
-graph = [
-    vertex,
-    vertex,
-    vertec,
+graph = {
+    node,
+    node,
+    node,
     ...
-]
+}
 */
 
 
 return ds_map_create();
-
-

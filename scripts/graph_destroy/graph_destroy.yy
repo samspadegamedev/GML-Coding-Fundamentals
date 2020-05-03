@@ -1,5 +1,5 @@
 {
-    "id": "24a70119-1d5a-4edb-8628-43e6da0d968f",
+    "id": "b102afd0-6345-49e2-892e-ec99e504352d",
     "modelName": "GMScript",
     "mvc": "1.0",
     "name": "graph_destroy",
